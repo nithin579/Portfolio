@@ -1,6 +1,5 @@
 body {
-  background-color: whitesmoke;
-}
+  background-color:rgb(152, 179, 186);
 #home {
   height: 40rem;
   display: flex;
@@ -35,4 +34,13 @@ body {
     font-weight: 900;
     font-size: 2.5rem;
   }
+}
+.social-container{
+    display: flex;
+    gap:20px;
+
+}
+.social-container a svg{
+    height: 32px;
+    
 }
