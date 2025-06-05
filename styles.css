@@ -1,5 +1,6 @@
 body {
-  background-color:rgb(152, 179, 186);
+  background-color:#0F172A;
+}
 #home {
   height: 40rem;
   display: flex;
@@ -42,5 +43,44 @@ body {
 }
 .social-container a svg{
     height: 32px;
-    
+    width: 32px;
+    fill:white
+}
+footer {
+  background-color: rgb(212, 63, 63) /* Replace with your desired color */
+}
+.bg-primary {
+  background-color: #030915 !important;
+}
+
+.btn-primary {
+  background-color: #0F172A;
+  border-color: white;
+}
+
+.text-primary {
+  color: white !important;
+}
+
+.border-primary {
+  border-color: white !important;
+}
+#about {
+  background-color: #0F172A;
+}
+
+#skills {
+  background-color: #0F172A;
+}
+
+#projects {
+  background-color: #0F172A;
+  
+  
+}body {
+  color: black;
+}
+
+.text-white {
+  color: #F8FAFC  !important;
 }
